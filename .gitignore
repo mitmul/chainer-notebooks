@@ -8,6 +8,7 @@ agent/
 
 mnist_result
 result
+ptb_result
 word2vec_result
 5.png
 7.png
