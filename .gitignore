@@ -1,4 +1,3 @@
-*.png
 .DS_Store
 
 *.model
@@ -6,3 +5,9 @@
 .ipynb_checkpoints/
 
 mnist_result
+result
+word2vec_result
+5.png
+7.png
+
+__pycache__/
