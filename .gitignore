@@ -1,0 +1,8 @@
+*.png
+.DS_Store
+
+*.model
+
+.ipynb_checkpoints/
+
+mnist_result
