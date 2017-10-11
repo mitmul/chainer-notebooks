@@ -14,4 +14,6 @@
 5. [Word2Vec: Obtain word embeddings](https://github.com/mitmul/DSVM-Chainer-Notebooks/blob/master/5_word2vec.ipynb)
 6. [ChainerRL Quickstart Guide](https://github.com/mitmul/DSVM-Chainer-Notebooks/blob/master/6_dqn_cartpole.ipynb)
 7. [Train a ConvNet using multiple GPUs](https://github.com/mitmul/DSVM-Chainer-Notebooks/blob/master/7_multiple_gpus.ipynb)
+8. [Chainer for Theano Users](https://github.com/mitmul/chainer-notebooks/blob/master/8_chainer-for-theano-users.ipynb)
+9. [Vanilla LSTM with CuPy](https://github.com/mitmul/chainer-notebooks/blob/master/9_vanilla-LSTM-with-cupy.ipynb)
 
